@@ -1,0 +1,7 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 15%;
+    background-color: rgba(40,40,43,0.9);
+}

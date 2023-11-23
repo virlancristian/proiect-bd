@@ -1,0 +1,28 @@
+.service-location-list {
+    background-color: rgba(250,156, 27, 0.8);
+    width: 30vw;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.service-location {
+    width: 100%;
+    text-align: center;
+    font-family: Ubuntu;
+    font-size: 1.3vw;
+    margin-bottom: 1%;
+}
+
+.service-location:hover {
+    background-color: rgba(240,94,22,0.8);
+    cursor: pointer;
+}
+
+.select-service-location {
+    background-color: rgba(250,156, 27, 0.8);
+    border-radius: 6px;
+    text-align: center;
+}
