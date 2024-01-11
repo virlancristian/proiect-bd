@@ -1,0 +1,13 @@
+.filters {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.filters select {
+    height: 3vh;
+}
+
+.filters p {
+    margin: 0 1%;
+}
